@@ -1,6 +1,6 @@
-namespace Task1.Geometry.Tests.Shapes;
-
 using Task1.Geometry.Shapes;
+
+namespace Task1.Geometry.Tests.Shapes;
 
 public class CircleTests
 {
